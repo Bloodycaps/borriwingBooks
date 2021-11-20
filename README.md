@@ -12,3 +12,6 @@ Sistematizar el sistema de inventario de una biblioteca y el prestamo de sus lib
 - Realizar un cobro por el retraso en el préstamo de los libros propiedad de la biblioteca
 - Generar alertas cuando el plazo de préstamo para los libros este por acabar
 - Mantener y preservar el inventario de libros en posesión de la biblioteca a través del control de inventario por medio del software
+
+## Alcance
+Crear una pagina web para el inventario y sistematizacionde prestamo de libros, ademas de generar ingreso para diferentes usuarios y estos puedan tener registro de los prestamos realizados con la biblioteca.
